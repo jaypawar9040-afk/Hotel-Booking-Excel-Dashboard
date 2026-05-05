@@ -38,6 +38,21 @@ The dataset contains **119,000+ hotel booking records** including:
 * Special requests
 
 ## 📷 Dashboard Preview
+## 📥 Download Full Dashboard
+
+Due to file size limitations on GitHub, the complete Excel dashboard is available here:
+
+👉 [Download from Google Drive](https://docs.google.com/spreadsheets/d/1_1jyhjNJYT0nU-Bdfz564ugt7HkHZSRB/edit)
+
+⚠️ Note:
+- This dashboard is built using Microsoft Excel  
+- Please download and open in Excel for full interactivity  
+- Google Sheets preview may not support slicers
+
+⚠️ Note:
+- This dashboard is built using Microsoft Excel  
+- Please download and open in Excel for full interactivity  
+- Google Sheets preview may not support slicers
 
 
 
