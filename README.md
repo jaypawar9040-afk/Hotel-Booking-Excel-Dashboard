@@ -37,8 +37,7 @@ The dataset contains **119,000+ hotel booking records** including:
 * Pricing (ADR)
 * Special requests
 
-## 📷 Dashboard Preview
-## 📥 Download Full Dashboard
+## Download Full Dashboard
 
 Due to file size limitations on GitHub, the complete Excel dashboard is available here:
 
@@ -48,13 +47,6 @@ Due to file size limitations on GitHub, the complete Excel dashboard is availabl
 - This dashboard is built using Microsoft Excel  
 - Please download and open in Excel for full interactivity  
 - Google Sheets preview may not support slicers
-
-⚠️ Note:
-- This dashboard is built using Microsoft Excel  
-- Please download and open in Excel for full interactivity  
-- Google Sheets preview may not support slicers
-
-
 
 
 ## Key Insights
